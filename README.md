@@ -1,0 +1,2 @@
+# midwest-farm-emissions-dashboard
+Web-based dashboard allowing farmers to estimate CO2 equivalent emissions from different tillage, fertilizer, and crop rotation scenarios across Midwest farming systems. Features side-by-side comparisons of conventional vs. regenerative practices with visual emission breakdowns and potential carbon credit calculations.
